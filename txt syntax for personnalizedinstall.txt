@@ -1,0 +1,14 @@
+=========
+txt setup
+=========
+
+for the txt the syntax is really simple 
+you just have to write the software ids
+like this 
+
+Google.QuickShare
+TheDocumentFoundation.LibreOffice
+WiresharkFoundation.Wireshark 
+Microsoft.WSL
+
+and like this its done 
